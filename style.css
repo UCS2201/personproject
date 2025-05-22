@@ -1,0 +1,28 @@
+*{
+margin :0;
+padding:0;
+box-sizing:border-box;
+}
+.main-div{
+     background:linear-gradient(45deg, #0b006c,#0b006cd4);
+     height:85px;
+}
+.image-div{
+     width:200px;
+     height:10px;
+}
+.image-div img{
+     width:85%;
+     float:left;
+}
+.nav-iteams{
+     float:right;
+     margin-right:45px;
+     margin-top:20px;
+}
+.nav-iteams a{
+ text-decoration: none;
+ color:#fff;
+ font-size: 25px;
+ margin-right:30px;
+}
